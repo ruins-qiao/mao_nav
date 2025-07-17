@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1752767521170",
+          "name": "itdog",
+          "url": "https://www.itdog.cn/",
+          "description": "",
+          "icon": "/sitelogo/www.itdog.cn.ico"
         }
       ]
     },
@@ -474,6 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "盐巴导航",
-  "_fileSha": "50c6da72e2aba6aaa173c1158d18e088af020f53"
+  "title": "猫猫导航"
 }
